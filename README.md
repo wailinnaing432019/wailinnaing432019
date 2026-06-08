@@ -53,8 +53,10 @@ I am a Computer Science student focused on building clean, modern, and highly pe
 ---
 
 ### 📊 GitHub Statistics
-[![Wai Linn Naing's GitHub stats](https://github-readme-stats.vercel.app/api?username=wailinnaing432019&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wailinnaing432019&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wailinnaing432019&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wailinnaing432019&theme=tokyonight" alt="GitHub Streak Stats" height="160" />
+</p>
 
 ---
 
