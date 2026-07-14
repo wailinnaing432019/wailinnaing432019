@@ -98,9 +98,9 @@ A personal finance management application built with **Laravel 10**.
 
 ---
 
-### GitHub Statistics
+### 📊 GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wailinnaing432019&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wailinnaing432019&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wailinnaing432019&theme=tokyonight" alt="GitHub Streak Stats" height="160" />
 </p>
 
