@@ -1,38 +1,32 @@
-# Wai Linn Naing
+# Hi, I'm Wai Linn Naing 👋
 
-## PHP / Laravel Developer
+### 🚀 Full-Stack Web Developer | PHP & Laravel Ecosystem Specialist
 
-Computer Science student focused on building clean, modern, and highly performance-optimized web applications with PHP and Laravel. Experienced in full-stack development using Laravel, Inertia.js, React, and MySQL.
+Computer Science student focused on building clean, modern, and high-performance web applications. Deeply engaged in the **Laravel, Inertia.js, and React** ecosystem, with practical experience handling robust backend architecture, database optimization, and modern UI/UX integrations.
 
----
-
-### About Me
-
-- Specialized in building modern web applications with the **Laravel** and **React** ecosystems.
-- Experienced with Laravel 10/11, Livewire, Blade, Eloquent ORM, Sanctum, Breeze, and Socialite.
-- Strong understanding of role-based authentication, multi-guard systems, and database optimization.
-- Currently learning **Next.js** during my internship at **MTM Myanmar Co.,Ltd**.
-- Passionate about crafting clean backend logic, responsive interfaces, and real-world business solutions.
+Currently expanding my full-stack expertise by working with **Next.js** during my internship at **MTM Myanmar Co., Ltd.**
 
 ---
 
-### Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-#### Backend & Frameworks
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+### 🌐 Backend & Frameworks
+
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/livewire-%234B5563.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Frontend Development
+### 🎨 Frontend Development
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Inertia.js](https://img.shields.io/badge/inertia.js-%234B5563.svg?style=for-the-badge&logo=inertia&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/alpine.js-%238BC0D0.svg?style=for-the-badge&logo=alpinejs&logoColor=black)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### Tools & Libraries
+### 🧰 Tools & Libraries
+
 ![Composer](https://img.shields.io/badge/composer-%23000000.svg?style=for-the-badge&logo=composer&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -40,73 +34,86 @@ Computer Science student focused on building clean, modern, and highly performan
 ![Chart.js](https://img.shields.io/badge/chart.js-%23FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![SweetAlert2](https://img.shields.io/badge/sweetalert2-%23063b75.svg?style=for-the-badge&logoColor=white)
 
+### 🧩 Foundational Skills & Familiar Frameworks 
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ---
 
-### Current Learning
+## 📈 Current Technical Focus (Internship @ MTM Myanmar)
 
-Currently expanding my full-stack skill set by learning **Next.js** during my internship at **MTM Myanmar Co.,Ltd**. Focusing on:
-- Next.js App Router and file-based routing
-- Server Components and Client Components
-- Data fetching patterns and caching strategies
-- Building production-ready React applications
+Currently shipping production-ready React applications and sharpening full-stack workflows with **Next.js**:
 
----
-
-### Featured Laravel & PHP Projects
-
-#### Pharmacy Management System
-A complete pharmacy inventory and sales management system built with **Laravel** and **React**.
-- Inventory tracking and stock management
-- Sales and purchase order handling
-- Reporting and invoice generation
-- Built with Laravel backend and React frontend
-
-#### Student Management System
-A comprehensive student information management system built with **Laravel** and **React**.
-- Student registration and academic record tracking
-- Performance analysis and GPA calculation
-- Database optimization with indexing
-- Clean dashboard UI with React and Tailwind CSS
-
-#### Staff Management System
-A staff information management system built with **Laravel** and **React**.
-- Employee record management and CRUD operations
-- Role-based access control
-- Profile and department management
-- Built with Laravel backend and React frontend
-
-#### Laravel 11 + Inertia.js Task & Project Management App
-A modern task and project management application built with **Laravel 11**, **Inertia.js**, **React**, and **Tailwind CSS**.
-- Full CRUD for Projects, Tasks, and Users
-- Rich table features: search, filter, sort, pagination
-- Dark mode, authentication via Laravel Sanctum & Breeze
-- API Resource layers, Ziggy route helpers
-
-#### Hungry Haven - Restaurant & Canteen Management System
-A comprehensive restaurant management platform built with **Laravel 10**, **Livewire**, and **Tailwind CSS**.
-- Multi-role authentication: Customer, Admin, Chef, Purchaser
-- Menu management, order tracking, table booking
-- PDF invoice generation with DomPDF, Chart.js analytics
-- Role-based access control with custom middleware
-
-#### Finance Tracker App
-A personal finance management application built with **Laravel 10**.
-- Multi-account management with opening balances
-- Income, expense, and fund transfer tracking
-- Google OAuth authentication with Laravel Socialite
-- PDF and CSV export with date filtering and advanced search
+- Implementing Next.js **App Router** and dynamic file-based routing.
+- Optimizing hydration and load times using **Server Components (RSC)** vs Client Components.
+- Leveraging efficient data fetching patterns, ISR/SSR, and fine-grained caching strategies.
 
 ---
 
-### 📊 GitHub Statistics
+## 💻 Featured Laravel & PHP Projects
+
+### 🎓 Student Management System
+
+A comprehensive academic information platform built with **Laravel** and **React**.
+
+- **Architectural Highlight:** Designed custom backend grading workflows and handled complex academic **GPA calculation logic**.
+- **Database Optimization:** Implemented strict **MySQL Indexing** to optimize heavy queries on relational data and speed up student report rendering.
+- **Frontend Integration:** Built a highly interactive dashboard utilizing React, Tailwind CSS, and clean API layers.
+
+### 💊 Pharmacy Management System
+
+A complete business inventory and real-time sales management engine.
+
+- Engineered precise stock tracking logic, low-inventory triggers, and purchase order automated states.
+- Handled multi-table transactional workflows ensuring high data integrity across sales and ledger records.
+- Generated business insights using integrated reporting modules and customized invoice generators.
+
+### 📊 Laravel 11 + Inertia.js Task & Project Management App
+
+A modern, enterprise-ready dashboard solution built with **Laravel 11, Inertia.js, React**, and **Tailwind CSS**.
+
+- **Backend Cleanliness:** Leveraged dedicated Laravel **API Resource layers** for structured data hydration and **Form Requests** for input integrity.
+- **Rich Data UI:** Built high-performance tabular layouts featuring server-side global search, advanced multi-column filtering, sorting, and cursor-based pagination.
+- **Security & Helpers:** Secured using native multi-guard Laravel Sanctum/Breeze setups and utilized Ziggy for decoupled client-side routing.
+
+### 🍔 Hungry Haven - Restaurant & Canteen Management System
+
+A full-stack, high-concurrency ordering platform utilizing **Laravel 10, Livewire**, and **Tailwind CSS**.
+
+- Developed a comprehensive **Multi-Role Authentication** mechanism supporting Customers, Admins, Chefs, and Purchasers using custom middleware.
+- Integrated real-time order lifecycle tracking, table reservations, and complex menu logic.
+- Generated operational analytics with Chart.js and raw transactional invoices using DomPDF.
+
+### 💰 Finance Tracker App
+
+A secure personal finance dashboard for handling multiple dynamic ledgers.
+
+- Implemented **Third-Party Integrations** via **Laravel Socialite** to support secure Google OAuth sessions.
+- Supported advanced multi-account tracking including initial balance states, transfers, and expense grouping.
+- Built dynamic filtering components enabling high-speed CSV/PDF exports.
+
+### 👥 Staff Management System
+
+An internal HR tool built with **Laravel** and **React**.
+
+- Implemented robust role-based access control (RBAC) to isolate sensitive department management logs.
+- Engineered optimized CRUD functionalities handling clean profile images and storage pipelines.
+
+---
+ 
+
+### 📊 GitHub Activity
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wailinnaing432019&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wailinnaing432019&theme=tokyonight" alt="GitHub Streak Stats" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wailinnaing432019&show_icons=true&theme=tokyonight&count_private=true" alt="Wai Linn Naing's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wailinnaing432019&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Top Languages" height="160" />
 </p>
+ 
 
 ---
 
-### Connect with Me
-- LinkedIn: https://www.linkedin.com/in/wai-lin-naing/
-- Portfolio: https://wailinnaing-portfolio.vercel.app/
-- GitHub: https://github.com/wailinnaing432019
+## 🤝 Connect with Me
+
+- 💼 **LinkedIn:** [wai-lin-naing](https://www.linkedin.com/in/wai-lin-naing/)
+- 🌐 **Portfolio:** [wailinnaing-portfolio.vercel.app](https://wailinnaing-portfolio.vercel.app/)
+- 📧 **Email:** [wailinnaing432019@gmail.comm]
