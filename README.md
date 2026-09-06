@@ -13,5 +13,5 @@ Foundational Skills & Familiar Frameworks : Python • Java • C# • SpringBoo
 ##  Connect with Me
 
 -  **LinkedIn:** [wai-lin-naing](https://www.linkedin.com/in/wai-lin-naing/)
--  **Portfolio:** [wailinnaing-portfolio.vercel.app](https://wailinnaing-portfolio.vercel.app/)
+-  **Portfolio:** [wailinnaing-portfo.vercel.app](https://wailinnaing-portfo.vercel.app/)
 -  **Email:** [wailinnaing432019@gmail.com]
