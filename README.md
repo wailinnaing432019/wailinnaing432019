@@ -1,6 +1,6 @@
-# Hi, I'm Wai Linn Naing 👋
+# Hi, I'm Wai Linn Naing 
 
-### 🚀 Full-Stack Web Developer | PHP & Laravel Ecosystem Specialist
+###  Full-Stack Web Developer | PHP & Laravel Ecosystem Specialist
 
 Computer Science student focused on building clean, modern, and high-performance web applications. Deeply engaged in the **Laravel, Inertia.js, and React** ecosystem, with practical experience handling robust backend architecture, database optimization, and modern UI/UX integrations.
 
@@ -8,16 +8,16 @@ Currently expanding my full-stack expertise by working with **Next.js** during m
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 🌐 Backend & Frameworks
+### Backend & Frameworks
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/livewire-%234B5563.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🎨 Frontend Development
+### Frontend Development
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Inertia.js](https://img.shields.io/badge/inertia.js-%234B5563.svg?style=for-the-badge&logo=inertia&logoColor=white)
@@ -25,7 +25,7 @@ Currently expanding my full-stack expertise by working with **Next.js** during m
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🧰 Tools & Libraries
+### Tools & Libraries
 
 ![Composer](https://img.shields.io/badge/composer-%23000000.svg?style=for-the-badge&logo=composer&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -34,26 +34,16 @@ Currently expanding my full-stack expertise by working with **Next.js** during m
 ![Chart.js](https://img.shields.io/badge/chart.js-%23FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![SweetAlert2](https://img.shields.io/badge/sweetalert2-%23063b75.svg?style=for-the-badge&logoColor=white)
 
-### 🧩 Foundational Skills & Familiar Frameworks 
+### Foundational Skills & Familiar Frameworks 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ---
 
-## 📈 Current Technical Focus (Internship @ MTM Myanmar)
+##  Featured Laravel & PHP Projects
 
-Currently shipping production-ready React applications and sharpening full-stack workflows with **Next.js**:
-
-- Implementing Next.js **App Router** and dynamic file-based routing.
-- Optimizing hydration and load times using **Server Components (RSC)** vs Client Components.
-- Leveraging efficient data fetching patterns, ISR/SSR, and fine-grained caching strategies.
-
----
-
-## 💻 Featured Laravel & PHP Projects
-
-### 🎓 Student Management System
+###  Student Management System
 
 A comprehensive academic information platform built with **Laravel** and **React**.
 
@@ -61,7 +51,7 @@ A comprehensive academic information platform built with **Laravel** and **React
 - **Database Optimization:** Implemented strict **MySQL Indexing** to optimize heavy queries on relational data and speed up student report rendering.
 - **Frontend Integration:** Built a highly interactive dashboard utilizing React, Tailwind CSS, and clean API layers.
 
-### 💊 Pharmacy Management System
+###  Pharmacy Management System
 
 A complete business inventory and real-time sales management engine.
 
@@ -69,7 +59,7 @@ A complete business inventory and real-time sales management engine.
 - Handled multi-table transactional workflows ensuring high data integrity across sales and ledger records.
 - Generated business insights using integrated reporting modules and customized invoice generators.
 
-### 📊 Laravel 11 + Inertia.js Task & Project Management App
+### Laravel 11 + Inertia.js Task & Project Management App
 
 A modern, enterprise-ready dashboard solution built with **Laravel 11, Inertia.js, React**, and **Tailwind CSS**.
 
@@ -77,7 +67,7 @@ A modern, enterprise-ready dashboard solution built with **Laravel 11, Inertia.j
 - **Rich Data UI:** Built high-performance tabular layouts featuring server-side global search, advanced multi-column filtering, sorting, and cursor-based pagination.
 - **Security & Helpers:** Secured using native multi-guard Laravel Sanctum/Breeze setups and utilized Ziggy for decoupled client-side routing.
 
-### 🍔 Hungry Haven - Restaurant & Canteen Management System
+###  Hungry Haven - Restaurant & Canteen Management System
 
 A full-stack, high-concurrency ordering platform utilizing **Laravel 10, Livewire**, and **Tailwind CSS**.
 
@@ -85,7 +75,7 @@ A full-stack, high-concurrency ordering platform utilizing **Laravel 10, Livewir
 - Integrated real-time order lifecycle tracking, table reservations, and complex menu logic.
 - Generated operational analytics with Chart.js and raw transactional invoices using DomPDF.
 
-### 💰 Finance Tracker App
+###  Finance Tracker App
 
 A secure personal finance dashboard for handling multiple dynamic ledgers.
 
@@ -93,7 +83,7 @@ A secure personal finance dashboard for handling multiple dynamic ledgers.
 - Supported advanced multi-account tracking including initial balance states, transfers, and expense grouping.
 - Built dynamic filtering components enabling high-speed CSV/PDF exports.
 
-### 👥 Staff Management System
+### Staff Management System
 
 An internal HR tool built with **Laravel** and **React**.
 
@@ -103,17 +93,9 @@ An internal HR tool built with **Laravel** and **React**.
 ---
  
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wailinnaing432019&show_icons=true&theme=tokyonight&count_private=true" alt="Wai Linn Naing's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wailinnaing432019&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Top Languages" height="160" />
-</p>
- 
 
----
+##  Connect with Me
 
-## 🤝 Connect with Me
-
-- 💼 **LinkedIn:** [wai-lin-naing](https://www.linkedin.com/in/wai-lin-naing/)
-- 🌐 **Portfolio:** [wailinnaing-portfolio.vercel.app](https://wailinnaing-portfolio.vercel.app/)
-- 📧 **Email:** [wailinnaing432019@gmail.comm]
+-  **LinkedIn:** [wai-lin-naing](https://www.linkedin.com/in/wai-lin-naing/)
+-  **Portfolio:** [wailinnaing-portfolio.vercel.app](https://wailinnaing-portfolio.vercel.app/)
+-  **Email:** [wailinnaing432019@gmail.com]
